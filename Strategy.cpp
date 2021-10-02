@@ -1,3 +1,6 @@
+// 策略模式
+
+
 #include <iostream>
 #include <vector>
 

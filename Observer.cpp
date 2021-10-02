@@ -1,3 +1,6 @@
+// 观察者模式
+
+
 #include <iostream>
 #include <list>
 

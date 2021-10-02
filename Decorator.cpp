@@ -1,3 +1,6 @@
+// 装饰器模式
+
+
 #include <iostream>
 #include <list>
 

@@ -1,3 +1,6 @@
+// 适配器模式
+
+
 #include <iostream>
 #include <vector>
 
